@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://scratpad.ghost.io",
+    "contentApiKey": "159370c6d38bf8e50302de1616"
+  },
+  "production": {
+    "apiUrl": "https://scratpad.ghost.io",
+    "contentApiKey": "159370c6d38bf8e50302de1616"
+  }
+}
