@@ -113,8 +113,8 @@ module.exports = {
     {
       resolve: `gatsby-source-ghost`,
       options: {
-        apiUrl: `https://gatsby.ghost.io`,
-        contentApiKey: `9cc5c67c358edfdd81455149d0`,
+        apiUrl: `https://scratpad.ghost.io`,
+        contentApiKey: `159370c6d38bf8e50302de1616`,
       },
     },
     {
